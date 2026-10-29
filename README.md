@@ -102,12 +102,12 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT 1 :
-<img width="835" height="535" alt="Screenshot 2026-10-29 094849" src="https://github.com/user-attachments/assets/cbf36a09-fa80-43fd-bc91-96bae2cb5d03" />
+<img width="835" height="535" alt="Screenshot 2026-10-29 094849" src="https://github.com/user-attachments/assets/322d9737-5a2f-4c91-b87e-ba3167dd6263" />
 
 
 
 ## OUTPUT 2 :
-<img width="775" height="272" alt="Screenshot 2026-10-29 094859" src="https://github.com/user-attachments/assets/fcbc7952-e447-406e-b021-98c3f9672125" />
+<img width="775" height="272" alt="Screenshot 2026-10-29 094859" src="https://github.com/user-attachments/assets/26cdc9a7-588c-4f85-90ba-e730ada6047a" />
 
 
 
